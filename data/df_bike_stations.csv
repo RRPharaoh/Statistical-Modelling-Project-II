@@ -1,187 +1,187 @@
-,name,Latitude,Longitude,free_bikes,Name,Category
-0,Cours Jean Ballard,43.29300892,5.374584208,0.0,,bike station
-1,Allées Gambetta,43.29902797,5.381509226,0.0,,bike station
-2,Réformés Canebière,43.29971664630074,5.384845163546515,2.0,,bike station
-3,Coutellerie,43.29679958,5.372909688,1.0,,bike station
-4,Canebiere - Beauvau,43.29527892,5.375048465,0.0,,bike station
-5,Colbert Ste Barbe,43.299242645590766,5.374807305735999,3.0,,bike station
-6,Centre Bourse,43.29693502454282,5.376544207099414,1.0,,bike station
-7,Saint-Ferréol - Davso,43.29360042,5.378349882,1.0,,bike station
-8,Flammarion - Isoard,43.3042781513621,5.388867929313619,1.0,,bike station
-9,Longchamp - Grobet,43.30299233959067,5.39213628647542,1.0,,bike station
-10,Vallon de l’Oriol,43.27617976729073,5.361008732708797,0.0,,bike station
-11,Grand Rue,43.29777432269154,5.370874697052955,0.0,,bike station
-12,Quai du Port,43.29573017,5.367354992,7.0,,bike station
-13,Place de Lenche,43.29716293,5.365865775,5.0,,bike station
-14,Place aux huiles,43.293258515940494,5.371585560104336,0.0,,bike station
-15,Canebiere Reine Elisabeth,43.29574849,5.375219826,0.0,,bike station
-16,La Major,43.29920885202967,5.365546894429258,2.0,,bike station
-17,MUCEM,43.29843273,5.362774233,5.0,,bike station
-18,Sainte - Lulli,43.29266329418829,5.376388862887325,1.0,,bike station
-19,Académie - Capucins,43.29601993155862,5.381084217359557,0.0,,bike station
-20,Canebière - Dugommier,43.29803718,5.381065715,9.0,,bike station
-21,Paris - Forbin,43.30598899,5.372249573,1.0,,bike station
-22,Sibie - Curiol,43.29528961,5.385580554,0.0,,bike station
-23,Euromediterrannee Gantes,43.30907565,5.368464875,11.0,,bike station
-24,Arenc - Chanterac,43.31223933,5.368561815,5.0,,bike station
-25,Tour La Marseillaise,43.31339141270814,5.367060274332289,10.0,,bike station
-26,Schuman - Leca,43.30193874,5.366285878,2.0,,bike station
-27,Ferry-Nédelec,43.30278357,5.377157667,7.0,,bike station
-28,Joliette - Dunkerque,43.30536824089319,5.367343057645485,8.0,,bike station
-29,Les Docks - Terrasses du Port,43.30570589746745,5.365654336110538,14.0,,bike station
-30,Saint Charles - Faculté,43.30460633,5.379025685,6.0,,bike station
-31,Hôpital Européen,43.30903370006192,5.371782666402396,0.0,,bike station
-32,National - Hoche,43.3111250012872,5.377624232911899,0.0,,bike station
-33,National Métro,43.31481127254133,5.37310339134342,1.0,,bike station
-34,Place Cadenat,43.3117222,5.387246838,3.0,,bike station
-35,Friche Belle de Mai,43.30958896,5.390258304,5.0,,bike station
-36,Cinq Avenue Longchamp,43.30427414673173,5.397513231939001,0.0,,bike station
-37,Chute Lavie Dahdah,43.30903759621901,5.396545511971453,0.0,,bike station
-38,Blancarde - Duparc,43.30275907,5.400792795,0.0,,bike station
-39,Chutes Lavie - Guigou,43.31329084715776,5.396838371330546,0.0,,bike station
-40,Eglise des Chartreux,43.30937085,5.401449029,0.0,,bike station
-41,Saint-Just - Le Dôme,43.31652283667526,5.40436656786892,1.0,,bike station
-42,Hôtel de ville,43.29613110303592,5.370772717518662,0.0,,bike station
-43,Canebière Saint-Ferreol,43.29626342443967,5.377094272796853,0.0,,bike station
-44,Jules Guesde,43.30142931593264,5.374129631885239,8.0,,bike station
-45,Notre-Dame - Dragon,43.2869613,5.373784575,0.0,,bike station
-46,Plaine - Saint-Pierre,43.29416247655675,5.386291983910837,2.0,,bike station
-47,Notre-Dame - Vauban,43.28399833,5.375062072,0.0,,bike station
-48,Tivoli - Roosevelt,43.29876369,5.3889733920000005,0.0,,bike station
-49,National - Belle de Mai,43.3080124,5.38151142,3.0,,bike station
-50,Baille - Friedland,43.28659467,5.386795143,0.0,,bike station
-51,Liberation - Isoard,43.30084993931786,5.390856183778169,0.0,,bike station
-52,Saint-Pierre - Hugueny,43.291994145747765,5.392906782557929,1.0,,bike station
-53,Rouet,43.28350153,5.386470818,0.0,,bike station
-54,Libération - Chape - Espérandieu,43.30200819,5.394693835,1.0,,bike station
-55,Flammarion- Montricher,43.3059935,5.393687137,1.0,,bike station
-56,Place Sébastopol,43.29868093,5.397225175,2.0,,bike station
-57,Toulon - Menpenti,43.28446199,5.39212117,4.0,,bike station
-58,Place Placide Caffo,43.3135706,5.3848289,5.0,,bike station
-59,Briffaut Camas,43.29431413,5.397498439,0.0,,bike station
-60,Belle vue,43.31528908746356,5.38034926547175,0.0,,bike station
-61,Baille - Hôpital Conception,43.28936349,5.396322259,0.0,,bike station
-62,Pierre Roux,43.28572971621563,5.394991516440086,0.0,,bike station
-63,Auphan - Vaillant,43.31707549,5.377366738,3.0,,bike station
-64,Foch - Fayolle,43.30111738,5.398795435,0.0,,bike station
-65,Chave - Sakakini,43.29571281,5.399639378,2.0,,bike station
-66,Jean Moulin - Hôpital La Timone,43.29041224963351,5.399632919528813,5.0,,bike station
-67,Sakakini - Saint-Pierre,43.29272355,5.401130777,0.0,,bike station
-68,Jean Moulin - Sainte Baume,43.28715402,5.39997873,0.0,,bike station
-69,Duparc - Brossolette,43.30641234314123,5.40103548654406,3.0,,bike station
-70,Bon Secours - Huilerie,43.319935427116775,5.381699103765641,0.0,,bike station
-71,Reboul - Argile,43.28078426,5.396621812,0.0,,bike station
-72,Sainte-Marthe - Glacière,43.31755747,5.390173087,2.0,,bike station
-73,Blancarde - Gare SNCF,43.29626348,5.406009668,1.0,,bike station
-74,Place Pol Lapeyre,43.2925709464964,5.40910662501517,2.0,,bike station
-75,Sainte-Marthe - Moretti,43.32366978,5.38883641,2.0,,bike station
-76,Saint-Barnabé - Haguenau,43.30418846,5.412903941,1.0,,bike station
-77,Place Caire,43.30383732,5.41872428,1.0,,bike station
-78,Pierre Paraf,43.33044176,5.38914807,1.0,,bike station
-79,Augustin Aubert,43.26795854639917,5.402685214151916,2.0,,bike station
-80,Parc Corot,43.32346361240647,5.406297409546596,0.0,,bike station
-81,Pont de Vivaux,43.2799602511721,5.416624366102042,2.0,,bike station
-82,La Boiseraie,43.29552256279197,5.422926314883398,3.0,,bike station
-83,Malpassé Métro,43.32004537625261,5.4150457738032864,10.0,,bike station
-84,La Fourragère,43.30409626543968,5.425385468108061,0.0,,bike station
-85,Saint-Paul - Malpassé,43.32660541953149,5.409903287927591,0.0,,bike station
-86,Bois Luzy,43.31078482,5.42430547,3.0,,bike station
-87,Lavéran - Diderot,43.3252329242701,5.4143178006645485,2.0,,bike station
-88,Montolivet,43.31712055,5.423936023,0.0,,bike station
-89,Saint-Jean du Désert,43.29876838180914,5.436430475000634,0.0,,bike station
-90,Faculté - Saint-Jerôme,43.33611966260352,5.410320835259142,8.0,,bike station
-91,Stade Bombardière,43.31710365325108,5.43681784487967,0.0,,bike station
-92,La Criée,43.29274852206981,5.368401671786842,0.0,,bike station
-93,Sainte - Notre-Dame,43.291674744737406,5.371582564461846,0.0,,bike station
-94,Place de la Corderie,43.29077871,5.371481915,4.0,,bike station
-95,République Joliette,43.30304044330242,5.368986802595486,5.0,,bike station
-96,Pierre Puget - Breteuil,43.29032689986855,5.375711092245979,4.0,,bike station
-97,Endoume - Corderie,43.28918361,5.366407727,9.0,,bike station
-98,Estrangin,43.28974291012639,5.378303806996655,2.0,,bike station
-99,Pasteur,43.29063067145421,5.359243592567395,2.0,,bike station
-100,Livon - Pasteur,43.29199367364626,5.357886145002112,0.0,,bike station
-101,Rome - Salvator,43.29099525,5.381360991,0.0,,bike station
-102,Rome Sylvabelle,43.29009961628429,5.38126895201026,0.0,,bike station
-103,Vallon Jourdan,43.28659309973765,5.363346223953386,0.0,,bike station
-104,Place du 4 Septembre,43.28856007,5.358371494,0.0,,bike station
-105,Paradis - Vignerons,43.28718443103384,5.379370104893951,2.0,,bike station
-106,Plage des Catalans,43.29010343949329,5.356114229700495,3.0,,bike station
-107,Chave Eugene Pierre,43.29516935,5.390426195,0.0,,bike station
-108,Paradis - Escat,43.283497890652455,5.380948347618755,2.0,,bike station
-109,Castellane,43.28479294027045,5.384113381462271,0.0,,bike station
-110,Place du Terrail,43.28039012260388,5.369296566841854,0.0,,bike station
-111,Vallon Montebello,43.28104431,5.378308143,2.0,,bike station
-112,Camas - Jaubert,43.29781526590139,5.393547700948375,0.0,,bike station
-113,Vallon des Auffes,43.285848320041225,5.350786907401925,1.0,,bike station
-114,Baille - Vertus,43.28850105474712,5.393086808343014,0.0,,bike station
-115,Corniche - Malmousque,43.2842190593168,5.349699767931042,2.0,,bike station
-116,Corniche - Endoume,43.28274440346115,5.35053287799019,4.0,,bike station
-117,Paradis - Lord Duveen,43.27562456,5.384392134,1.0,,bike station
-118,Plage du Prophète,43.2736131125202,5.362704849368924,3.0,,bike station
-119,Prado - Lord Duveen,43.27676858722245,5.388786515806714,0.0,,bike station
-120,Liandier - Rouet,43.278398597227664,5.392138782316124,0.0,,bike station
-121,Prado - Paradis,43.26946672,5.386439042,3.0,,bike station
-122,Negresko - Paulet,43.26931867,5.389396978,1.0,,bike station
-123,Louis Armand,43.29957938303167,5.413255322900113,0.0,,bike station
-124,Huveaune - Curtel,43.27812844,5.407194838,1.0,,bike station
-125,Huveaune - Borely,43.26201967835499,5.3792991458357164,0.0,,bike station
-126,Rolland - Platanes,43.27138756896159,5.40926929141915,3.0,,bike station
-127,Clot Bey - Leau,43.25575639,5.38230303,3.0,,bike station
-128,Escale Borély,43.25494658454127,5.3764543491352015,3.0,,bike station
-129,Mazargues - Saint Anne,43.258223500058506,5.394368605955606,0.0,,bike station
-130,Boulevard Urbain Sud - Verdillon,43.27502818,5.424533793,8.0,,bike station
-131,Boulevard urbain sud - François Mauriac,43.27072082477898,5.422763624666231,3.0,,bike station
-132,Mazargues - Almeras,43.25096566135139,5.395186297530245,2.0,,bike station
-133,Lapin Blanc,43.24693037,5.38209613,3.0,,bike station
-134,Plage de la Pointe Rouge,43.24388423106348,5.370736380062908,2.0,,bike station
-135,Lancier - Savary,43.24558129772871,5.395069220467349,1.0,,bike station
-136,Corail - Marseilleveyre,43.24062346787065,5.377642413176545,13.0,,bike station
-137,Parc Pastré,43.23958841257124,5.366238242702252,0.0,,bike station
-138,Roy d'Espagne - Floralia,43.24178222403938,5.397261332914354,2.0,,bike station
-139,Madrague de Montredon,43.231922566975584,5.355545384096217,4.0,,bike station
-140,Luminy - Parc National des Calanques,43.23156159,5.436933396,15.0,,bike station
-141,Char Jeanne d'Arc - Notre Dame de La Garde,43.286038666099785,5.370678521004038,0.0,,bike station
-142,Cours Julien - Frères Barthelemy,43.29264247456925,5.384253993651782,2.0,,bike station
-143,National - Guibal,43.30536406,5.384119039,0.0,,bike station
-144,Saint-Eugène,43.28453826179185,5.358657022621628,2.0,,bike station
-145,Chave - Goudard,43.295196228553976,5.393969861741993,0.0,,bike station
-146,Périer - Cremieux,43.2790871519652,5.380114290305642,4.0,,bike station
-147,Prado - Périer,43.27974223,5.387440377,0.0,,bike station
-148,Prado - Gabes,43.2668101,5.382693941,14.0,,bike station
-149,Gèze,43.3283706355171,5.366912086186176,0.0,,bike station
-150,Mazargues - Huveaune,43.265570946669925,5.390032250158811,1.0,,bike station
-151,Mendès France Huveaune,43.260224964054686,5.375454850246569,2.0,,bike station
-152,318 Mazargues,43.26069975,5.393983394,0.0,,bike station
-153,Hambourg Rond Point Guerre,43.25002314043684,5.389189832781312,1.0,,bike station
-154,Vieille Chapelle,43.2479001,5.374457344,2.0,,bike station
-155,Zenatti - Malrieu,43.24646666954729,5.388984457266133,2.0,,bike station
-156,Capelette - Forges,43.27946481,5.410561214,1.0,,bike station
-157,Place Dalmas,43.32287191,5.382756282,0.0,,bike station
-158,Rabateau - Hôpital Saint-Joseph,43.27410312139213,5.394016006213974,1.0,,bike station
-159,Sormiou,43.23179293755999,5.400044027608033,2.0,,bike station
-160,Livon - Vieux-Port,43.2923113,5.360730586,1.0,,bike station
-161,Perrin - Le Moulin,43.31917923,5.407725382,0.0,,bike station
-162,Strasbourg - Leca,43.30794517,5.376487141,0.0,,bike station
-163,Saint-Just - Labry,43.31260893,5.401662431,0.0,,bike station
-164,Peupliers - Berthelot,43.3371680327555,5.391824847426392,2.0,,bike station
-165,IUT Saint Jérôme,43.34080437,5.41021883,3.0,,bike station
-166,Sadi-Carnot,43.29972361,5.371828908,2.0,,bike station
-167,Hôpital Sainte-Marguerite,43.25900934682247,5.409290356125894,4.0,,bike station
-168,Foch - Boisson,43.297946098534624,5.404062681086202,0.0,,bike station
-169,Sainte Marguerite Schloesing,43.26949,5.40262,2.0,,bike station
-170,Promenade Pompidou David,43.26178214,5.374514856,0.0,,bike station
-171,Base Nautique Roucas Blanc,43.26571391,5.372890521,0.0,,bike station
-172,Tobelem - Crinias,43.28727,5.36078,1.0,,bike station
-173,Boulevard Urbain Sud - Pont de Vivaux,43.28154806631724,5.426429873252573,5.0,,bike station
-174,Lieutaud - Berlioz,43.2893069,5.38406028,0.0,,bike station
-175,Corse - Saint Maurice,43.28946766,5.363719459,1.0,,bike station
-176,Beaumont,43.30805059284097,5.43527038728962,0.0,,bike station
-177,Palais Omnisports,43.27995154116266,5.400084718244955,1.0,,bike station
-178,Rond Point du Prado,43.27312918982443,5.390725360406577,0.0,,bike station
-179,Prado - Michelet,43.27211634133852,5.391746867406027,1.0,,bike station
-180,Michelet - Huveaune,43.26796562,5.393976415,2.0,,bike station
-181,Cité Radieuse,43.26091237294747,5.3975844325293565,0.0,,bike station
-182,Michelet - Luce,43.25865839,5.398934653,2.0,,bike station
-183,Obélisque de Mazargues,43.25102036834343,5.403214047900747,2.0,,bike station
-184,Allar,43.32477130443621,5.365569501866162,1.0,,bike station
-185,La Gaye,43.257079,5.411051253,0.0,,bike station
+,Name,Latitude,Longitude,free_bikes,Category
+0,Cours Jean Ballard,43.29300892,5.374584208,0.0,bike station
+1,Allées Gambetta,43.29902797,5.381509226,0.0,bike station
+2,Réformés Canebière,43.29971664630074,5.384845163546515,2.0,bike station
+3,Coutellerie,43.29679958,5.372909688,1.0,bike station
+4,Canebiere - Beauvau,43.29527892,5.375048465,0.0,bike station
+5,Colbert Ste Barbe,43.299242645590766,5.374807305735999,3.0,bike station
+6,Centre Bourse,43.29693502454282,5.376544207099414,1.0,bike station
+7,Saint-Ferréol - Davso,43.29360042,5.378349882,1.0,bike station
+8,Flammarion - Isoard,43.3042781513621,5.388867929313619,1.0,bike station
+9,Longchamp - Grobet,43.30299233959067,5.39213628647542,1.0,bike station
+10,Vallon de l’Oriol,43.27617976729073,5.361008732708797,0.0,bike station
+11,Grand Rue,43.29777432269154,5.370874697052955,0.0,bike station
+12,Quai du Port,43.29573017,5.367354992,7.0,bike station
+13,Place de Lenche,43.29716293,5.365865775,5.0,bike station
+14,Place aux huiles,43.293258515940494,5.371585560104336,0.0,bike station
+15,Canebiere Reine Elisabeth,43.29574849,5.375219826,0.0,bike station
+16,La Major,43.29920885202967,5.365546894429258,2.0,bike station
+17,MUCEM,43.29843273,5.362774233,5.0,bike station
+18,Sainte - Lulli,43.29266329418829,5.376388862887325,1.0,bike station
+19,Académie - Capucins,43.29601993155862,5.381084217359557,0.0,bike station
+20,Canebière - Dugommier,43.29803718,5.381065715,9.0,bike station
+21,Paris - Forbin,43.30598899,5.372249573,1.0,bike station
+22,Sibie - Curiol,43.29528961,5.385580554,0.0,bike station
+23,Euromediterrannee Gantes,43.30907565,5.368464875,11.0,bike station
+24,Arenc - Chanterac,43.31223933,5.368561815,5.0,bike station
+25,Tour La Marseillaise,43.31339141270814,5.367060274332289,10.0,bike station
+26,Schuman - Leca,43.30193874,5.366285878,2.0,bike station
+27,Ferry-Nédelec,43.30278357,5.377157667,7.0,bike station
+28,Joliette - Dunkerque,43.30536824089319,5.367343057645485,8.0,bike station
+29,Les Docks - Terrasses du Port,43.30570589746745,5.365654336110538,14.0,bike station
+30,Saint Charles - Faculté,43.30460633,5.379025685,6.0,bike station
+31,Hôpital Européen,43.30903370006192,5.371782666402396,0.0,bike station
+32,National - Hoche,43.3111250012872,5.377624232911899,0.0,bike station
+33,National Métro,43.31481127254133,5.37310339134342,1.0,bike station
+34,Place Cadenat,43.3117222,5.387246838,3.0,bike station
+35,Friche Belle de Mai,43.30958896,5.390258304,5.0,bike station
+36,Cinq Avenue Longchamp,43.30427414673173,5.397513231939001,0.0,bike station
+37,Chute Lavie Dahdah,43.30903759621901,5.396545511971453,0.0,bike station
+38,Blancarde - Duparc,43.30275907,5.400792795,0.0,bike station
+39,Chutes Lavie - Guigou,43.31329084715776,5.396838371330546,0.0,bike station
+40,Eglise des Chartreux,43.30937085,5.401449029,0.0,bike station
+41,Saint-Just - Le Dôme,43.31652283667526,5.40436656786892,1.0,bike station
+42,Hôtel de ville,43.29613110303592,5.370772717518662,0.0,bike station
+43,Canebière Saint-Ferreol,43.29626342443967,5.377094272796853,0.0,bike station
+44,Jules Guesde,43.30142931593264,5.374129631885239,8.0,bike station
+45,Notre-Dame - Dragon,43.2869613,5.373784575,0.0,bike station
+46,Plaine - Saint-Pierre,43.29416247655675,5.386291983910837,2.0,bike station
+47,Notre-Dame - Vauban,43.28399833,5.375062072,0.0,bike station
+48,Tivoli - Roosevelt,43.29876369,5.3889733920000005,0.0,bike station
+49,National - Belle de Mai,43.3080124,5.38151142,3.0,bike station
+50,Baille - Friedland,43.28659467,5.386795143,0.0,bike station
+51,Liberation - Isoard,43.30084993931786,5.390856183778169,0.0,bike station
+52,Saint-Pierre - Hugueny,43.291994145747765,5.392906782557929,1.0,bike station
+53,Rouet,43.28350153,5.386470818,0.0,bike station
+54,Libération - Chape - Espérandieu,43.30200819,5.394693835,1.0,bike station
+55,Flammarion- Montricher,43.3059935,5.393687137,1.0,bike station
+56,Place Sébastopol,43.29868093,5.397225175,2.0,bike station
+57,Toulon - Menpenti,43.28446199,5.39212117,4.0,bike station
+58,Place Placide Caffo,43.3135706,5.3848289,5.0,bike station
+59,Briffaut Camas,43.29431413,5.397498439,0.0,bike station
+60,Belle vue,43.31528908746356,5.38034926547175,0.0,bike station
+61,Baille - Hôpital Conception,43.28936349,5.396322259,0.0,bike station
+62,Pierre Roux,43.28572971621563,5.394991516440086,0.0,bike station
+63,Auphan - Vaillant,43.31707549,5.377366738,3.0,bike station
+64,Foch - Fayolle,43.30111738,5.398795435,0.0,bike station
+65,Chave - Sakakini,43.29571281,5.399639378,2.0,bike station
+66,Jean Moulin - Hôpital La Timone,43.29041224963351,5.399632919528813,5.0,bike station
+67,Sakakini - Saint-Pierre,43.29272355,5.401130777,0.0,bike station
+68,Jean Moulin - Sainte Baume,43.28715402,5.39997873,0.0,bike station
+69,Duparc - Brossolette,43.30641234314123,5.40103548654406,3.0,bike station
+70,Bon Secours - Huilerie,43.319935427116775,5.381699103765641,0.0,bike station
+71,Reboul - Argile,43.28078426,5.396621812,0.0,bike station
+72,Sainte-Marthe - Glacière,43.31755747,5.390173087,2.0,bike station
+73,Blancarde - Gare SNCF,43.29626348,5.406009668,1.0,bike station
+74,Place Pol Lapeyre,43.2925709464964,5.40910662501517,2.0,bike station
+75,Sainte-Marthe - Moretti,43.32366978,5.38883641,2.0,bike station
+76,Saint-Barnabé - Haguenau,43.30418846,5.412903941,1.0,bike station
+77,Place Caire,43.30383732,5.41872428,1.0,bike station
+78,Pierre Paraf,43.33044176,5.38914807,1.0,bike station
+79,Augustin Aubert,43.26795854639917,5.402685214151916,2.0,bike station
+80,Parc Corot,43.32346361240647,5.406297409546596,0.0,bike station
+81,Pont de Vivaux,43.2799602511721,5.416624366102042,2.0,bike station
+82,La Boiseraie,43.29552256279197,5.422926314883398,3.0,bike station
+83,Malpassé Métro,43.32004537625261,5.4150457738032864,10.0,bike station
+84,La Fourragère,43.30409626543968,5.425385468108061,0.0,bike station
+85,Saint-Paul - Malpassé,43.32660541953149,5.409903287927591,0.0,bike station
+86,Bois Luzy,43.31078482,5.42430547,3.0,bike station
+87,Lavéran - Diderot,43.3252329242701,5.4143178006645485,2.0,bike station
+88,Montolivet,43.31712055,5.423936023,0.0,bike station
+89,Saint-Jean du Désert,43.29876838180914,5.436430475000634,0.0,bike station
+90,Faculté - Saint-Jerôme,43.33611966260352,5.410320835259142,8.0,bike station
+91,Stade Bombardière,43.31710365325108,5.43681784487967,0.0,bike station
+92,La Criée,43.29274852206981,5.368401671786842,0.0,bike station
+93,Sainte - Notre-Dame,43.291674744737406,5.371582564461846,0.0,bike station
+94,Place de la Corderie,43.29077871,5.371481915,4.0,bike station
+95,République Joliette,43.30304044330242,5.368986802595486,5.0,bike station
+96,Pierre Puget - Breteuil,43.29032689986855,5.375711092245979,4.0,bike station
+97,Endoume - Corderie,43.28918361,5.366407727,9.0,bike station
+98,Estrangin,43.28974291012639,5.378303806996655,2.0,bike station
+99,Pasteur,43.29063067145421,5.359243592567395,2.0,bike station
+100,Livon - Pasteur,43.29199367364626,5.357886145002112,0.0,bike station
+101,Rome - Salvator,43.29099525,5.381360991,0.0,bike station
+102,Rome Sylvabelle,43.29009961628429,5.38126895201026,0.0,bike station
+103,Vallon Jourdan,43.28659309973765,5.363346223953386,0.0,bike station
+104,Place du 4 Septembre,43.28856007,5.358371494,0.0,bike station
+105,Paradis - Vignerons,43.28718443103384,5.379370104893951,2.0,bike station
+106,Plage des Catalans,43.29010343949329,5.356114229700495,3.0,bike station
+107,Chave Eugene Pierre,43.29516935,5.390426195,0.0,bike station
+108,Paradis - Escat,43.283497890652455,5.380948347618755,2.0,bike station
+109,Castellane,43.28479294027045,5.384113381462271,0.0,bike station
+110,Place du Terrail,43.28039012260388,5.369296566841854,0.0,bike station
+111,Vallon Montebello,43.28104431,5.378308143,2.0,bike station
+112,Camas - Jaubert,43.29781526590139,5.393547700948375,0.0,bike station
+113,Vallon des Auffes,43.285848320041225,5.350786907401925,1.0,bike station
+114,Baille - Vertus,43.28850105474712,5.393086808343014,0.0,bike station
+115,Corniche - Malmousque,43.2842190593168,5.349699767931042,2.0,bike station
+116,Corniche - Endoume,43.28274440346115,5.35053287799019,4.0,bike station
+117,Paradis - Lord Duveen,43.27562456,5.384392134,1.0,bike station
+118,Plage du Prophète,43.2736131125202,5.362704849368924,3.0,bike station
+119,Prado - Lord Duveen,43.27676858722245,5.388786515806714,0.0,bike station
+120,Liandier - Rouet,43.278398597227664,5.392138782316124,0.0,bike station
+121,Prado - Paradis,43.26946672,5.386439042,3.0,bike station
+122,Negresko - Paulet,43.26931867,5.389396978,1.0,bike station
+123,Louis Armand,43.29957938303167,5.413255322900113,0.0,bike station
+124,Huveaune - Curtel,43.27812844,5.407194838,1.0,bike station
+125,Huveaune - Borely,43.26201967835499,5.3792991458357164,0.0,bike station
+126,Rolland - Platanes,43.27138756896159,5.40926929141915,3.0,bike station
+127,Clot Bey - Leau,43.25575639,5.38230303,3.0,bike station
+128,Escale Borély,43.25494658454127,5.3764543491352015,3.0,bike station
+129,Mazargues - Saint Anne,43.258223500058506,5.394368605955606,0.0,bike station
+130,Boulevard Urbain Sud - Verdillon,43.27502818,5.424533793,8.0,bike station
+131,Boulevard urbain sud - François Mauriac,43.27072082477898,5.422763624666231,3.0,bike station
+132,Mazargues - Almeras,43.25096566135139,5.395186297530245,2.0,bike station
+133,Lapin Blanc,43.24693037,5.38209613,3.0,bike station
+134,Plage de la Pointe Rouge,43.24388423106348,5.370736380062908,2.0,bike station
+135,Lancier - Savary,43.24558129772871,5.395069220467349,1.0,bike station
+136,Corail - Marseilleveyre,43.24062346787065,5.377642413176545,13.0,bike station
+137,Parc Pastré,43.23958841257124,5.366238242702252,0.0,bike station
+138,Roy d'Espagne - Floralia,43.24178222403938,5.397261332914354,2.0,bike station
+139,Madrague de Montredon,43.231922566975584,5.355545384096217,4.0,bike station
+140,Luminy - Parc National des Calanques,43.23156159,5.436933396,15.0,bike station
+141,Char Jeanne d'Arc - Notre Dame de La Garde,43.286038666099785,5.370678521004038,0.0,bike station
+142,Cours Julien - Frères Barthelemy,43.29264247456925,5.384253993651782,2.0,bike station
+143,National - Guibal,43.30536406,5.384119039,0.0,bike station
+144,Saint-Eugène,43.28453826179185,5.358657022621628,2.0,bike station
+145,Chave - Goudard,43.295196228553976,5.393969861741993,0.0,bike station
+146,Périer - Cremieux,43.2790871519652,5.380114290305642,4.0,bike station
+147,Prado - Périer,43.27974223,5.387440377,0.0,bike station
+148,Prado - Gabes,43.2668101,5.382693941,14.0,bike station
+149,Gèze,43.3283706355171,5.366912086186176,0.0,bike station
+150,Mazargues - Huveaune,43.265570946669925,5.390032250158811,1.0,bike station
+151,Mendès France Huveaune,43.260224964054686,5.375454850246569,2.0,bike station
+152,318 Mazargues,43.26069975,5.393983394,0.0,bike station
+153,Hambourg Rond Point Guerre,43.25002314043684,5.389189832781312,1.0,bike station
+154,Vieille Chapelle,43.2479001,5.374457344,2.0,bike station
+155,Zenatti - Malrieu,43.24646666954729,5.388984457266133,2.0,bike station
+156,Capelette - Forges,43.27946481,5.410561214,1.0,bike station
+157,Place Dalmas,43.32287191,5.382756282,0.0,bike station
+158,Rabateau - Hôpital Saint-Joseph,43.27410312139213,5.394016006213974,1.0,bike station
+159,Sormiou,43.23179293755999,5.400044027608033,2.0,bike station
+160,Livon - Vieux-Port,43.2923113,5.360730586,1.0,bike station
+161,Perrin - Le Moulin,43.31917923,5.407725382,0.0,bike station
+162,Strasbourg - Leca,43.30794517,5.376487141,0.0,bike station
+163,Saint-Just - Labry,43.31260893,5.401662431,0.0,bike station
+164,Peupliers - Berthelot,43.3371680327555,5.391824847426392,2.0,bike station
+165,IUT Saint Jérôme,43.34080437,5.41021883,3.0,bike station
+166,Sadi-Carnot,43.29972361,5.371828908,2.0,bike station
+167,Hôpital Sainte-Marguerite,43.25900934682247,5.409290356125894,4.0,bike station
+168,Foch - Boisson,43.297946098534624,5.404062681086202,0.0,bike station
+169,Sainte Marguerite Schloesing,43.26949,5.40262,2.0,bike station
+170,Promenade Pompidou David,43.26178214,5.374514856,0.0,bike station
+171,Base Nautique Roucas Blanc,43.26571391,5.372890521,0.0,bike station
+172,Tobelem - Crinias,43.28727,5.36078,1.0,bike station
+173,Boulevard Urbain Sud - Pont de Vivaux,43.28154806631724,5.426429873252573,5.0,bike station
+174,Lieutaud - Berlioz,43.2893069,5.38406028,0.0,bike station
+175,Corse - Saint Maurice,43.28946766,5.363719459,1.0,bike station
+176,Beaumont,43.30805059284097,5.43527038728962,0.0,bike station
+177,Palais Omnisports,43.27995154116266,5.400084718244955,1.0,bike station
+178,Rond Point du Prado,43.27312918982443,5.390725360406577,0.0,bike station
+179,Prado - Michelet,43.27211634133852,5.391746867406027,1.0,bike station
+180,Michelet - Huveaune,43.26796562,5.393976415,2.0,bike station
+181,Cité Radieuse,43.26091237294747,5.3975844325293565,0.0,bike station
+182,Michelet - Luce,43.25865839,5.398934653,2.0,bike station
+183,Obélisque de Mazargues,43.25102036834343,5.403214047900747,2.0,bike station
+184,Allar,43.32477130443621,5.365569501866162,1.0,bike station
+185,La Gaye,43.257079,5.411051253,0.0,bike station

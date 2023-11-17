@@ -37,7 +37,7 @@ staying organized and maintain consistency within my analysis was a major challe
 Deciding what data to keep for analysis vs what data to not include was challenging. Filling in Null values was a major point of contention for me as I felt it would skew the data, but I could not complete the analysis with them included.
 
 ## Future Goals
-- I would like to compare the results of Marseille, with another city of similar size. 
+I would like to compare the results of Marseille, with another city of similar size. 
 I would also like to investigate additional data that might indicate what the trends in the city are regarding bike usage, for example:
  - is it a walkable city
  - Public Transit accessibility 
